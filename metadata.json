@@ -1,0 +1,6 @@
+{
+  "name": "DriveMate — Designated Driver Booking MVP",
+  "description": "Premium designated chauffeur service for events and weddings in Nigeria. Book a vetted driver to drive your own car home safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
